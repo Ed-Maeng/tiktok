@@ -1,2 +1,2 @@
-# tiktok
+# TikTok
 Full Stack TikTok Application
